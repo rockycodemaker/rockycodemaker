@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rockycodemaker
 - 👀 I’m interested in learning to code with bigger projects
-- 🌱 I’m currently learning python objects and how to use GIT :')
-- 💞️ I’m looking to collaborate on nothing yet actually, much to learn first!
+- 🌱 I’m currently working as a 4D developer
 
 
 <!---
